@@ -8,7 +8,9 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-load_dotenv()
+# Resolve .env relative to this file so it loads correctly regardless of cwd.
+_here = Path(__file__).parent
+load_dotenv(_here / ".env", override=True)
 
 
 def _require(key: str) -> str:
