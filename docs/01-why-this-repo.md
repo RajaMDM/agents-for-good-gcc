@@ -14,7 +14,7 @@ Agent-based tools like [Hermes Agent](https://github.com/NousResearch/hermes-age
 
 They are also complicated. Installing one is not hard. Using one well — knowing what to ask it to do, what *not* to trust it with, how to hand it off to a colleague who wasn't in the room when it was set up — that is hard. Most small nonprofits do not have someone on staff who can do that.
 
-I can do that. My day job is doing it at the scale of seventy retail brands. Doing it for a small NGO running an iftar drive is a much smaller problem than the ones I solve during the week. So: why not?
+I can do that. My day job is enterprise-scale data management. Doing it for a small NGO running an iftar drive is a much smaller problem than the ones I solve during the week. So: why not?
 
 ## What this repo is not
 
