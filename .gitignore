@@ -8,7 +8,16 @@
 *~
 __pycache__/
 *.pyc
+*.pyo
 .venv/
 venv/
 .hermes/
 hermes.json
+
+# Secrets — never commit
+.env
+telegram-bot/.env
+telegram-bot/hermes-bot.log
+
+# Runtime artefacts
+*.log
