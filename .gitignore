@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+.venv/
+venv/
+.hermes/
+hermes.json
